@@ -1,0 +1,2 @@
+# Assembly Memory Access Exception
+This repository demonstrates a common error in assembly programming: unhandled memory access exceptions.  The `bug.asm` file contains code that attempts to modify a memory location without proper error handling or bounds checking.  The `bugSolution.asm` file shows a corrected version with improved error handling and better memory management.
